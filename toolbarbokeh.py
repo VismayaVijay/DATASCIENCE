@@ -1,0 +1,16 @@
+#positioning toolbar
+
+from bokeh.plotting import figure
+from bokeh.plotting import output_file
+from bokeh.plotting import show
+
+
+output_file("toolbar.html")
+
+p=figure(width=400,height=400,title=None,toolbar_location="below",toolbar_sticky=False)
+
+
+p.circle([1,2,3,4,5],[2,5,8,2,7],size=10)
+
+
+show (p)
