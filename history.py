@@ -22,3 +22,10 @@ runfile('C:/Users/user.dblab27/.spyder-py3/dataframe1.py', wdir='C:/Users/user.d
 runfile('C:/Users/user.dblab27/.spyder-py3/temp.py', wdir='C:/Users/user.dblab27/.spyder-py3')
 runfile('C:/Users/user.dblab27/.spyder-py3/toolbarbokeh.py', wdir='C:/Users/user.dblab27/.spyder-py3')
 runfile('C:/Users/user.dblab27/.spyder-py3/temp.py', wdir='C:/Users/user.dblab27/.spyder-py3')
+
+## ---(Fri Jan  1 00:10:10 2044)---
+runfile('C:/Users/user.dblab27/.spyder-py3/temp.py', wdir='C:/Users/user.dblab27/.spyder-py3')
+runfile('C:/Users/user.dblab27/.spyder-py3/knn.py', wdir='C:/Users/user.dblab27/.spyder-py3')
+runfile('C:/Users/user.dblab27/.spyder-py3/untitled0.py', wdir='C:/Users/user.dblab27/.spyder-py3')
+runfile('C:/Users/user.dblab27/.spyder-py3/matrixopn using vectorization.py', wdir='C:/Users/user.dblab27/.spyder-py3')
+runfile('C:/Users/user.dblab27/.spyder-py3/untitled0.py', wdir='C:/Users/user.dblab27/.spyder-py3')
